@@ -2,6 +2,7 @@
 
 Link to Jupyter notebook below:
 
+https://github.com/philipMLdatascientist/Marketing-Campaign/blob/main/Marketing%20Campaign.ipynb
 
 ## Business Understanding
 

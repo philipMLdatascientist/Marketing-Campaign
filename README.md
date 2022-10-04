@@ -1,12 +1,11 @@
 # Marketing-Campaign
-# CRISP-DM-Methodology
 
 Link to Jupyter notebook below:
 
 
 ## Business Understanding
 
-The business objective of this task is to find a model that can explain success of a contact. Marketing campaigns have very low response rates; therefore, this Data Mining project will aim to identify the best model in terms of positive predictive power.
+The business objective of this task is to find a model that can explain success of a contact. Marketing campaigns have very low response rates; therefore, this Data Mining project will aim to identify the best model in terms of positive predictive power of which customers will subscribe a deposit.
 
 ## Data Understanding
 
